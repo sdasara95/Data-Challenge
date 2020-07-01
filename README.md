@@ -3,8 +3,8 @@ We appreciate the time that all applicants put into this exercise and to ensure 
 
 
 Exercise
-*Please use Python 
-The attached CSV file lists the customer, date, and dollar value of orders placed at a store in 2017. The actual gender and predicted gender of each customer is also provided.
+*Please use Python <br>
+The attached CSV file lists the customer, date, and dollar value of orders placed at a store in 2017. The actual gender and predicted gender of each customer is also provided.<br>
 
 Complete each of the following activities in a jupyter notebook using Python. Put your name and email at the top of the notebook and include your name in the notebook file name. Send back only your notebook file and please do not zip it. Please do not exclude $0 orders.
 
